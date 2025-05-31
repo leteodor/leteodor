@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there👋
 
+### A little about me...
+I'm Lily, a full-stack web dev student at ASU🎓. I am enthusiastic about becoming a developer and have been working so far with Python, HTML, and CSS.
+I enjoy the process of learning how to code by solving puzzles in the form of projects, and I have skills in pattern recognition which helps me learn languages quickly. I want to gain mastery of sought-after languages for devs and to find my niche within the tech industry.
+
+My hobbies include gaming🎮, crocheting🧶, and yoga🧘.
+
+### Find me on...
+- 🖊️ Codepen: https://codepen.io/leteodor
+- 🔗 LinkedIn: www.linkedin.com/in/lily-teodorovich-1b6a5735b
 <!--
 **leteodor/leteodor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=leteodor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
