@@ -1,7 +1,7 @@
 ## Hi there👋
 
 ### A little about me...
-I'm Lily, a full-stack web dev student at ASU🎓. I am enthusiastic about becoming a developer and have been working so far with Python, HTML, and CSS.
+I'm Lily, a full-stack web dev student at ASU🎓. I am passionate about improving my skills as a developer and have worked with Python, HTML, and CSS.
 I enjoy the process of learning how to code by solving puzzles in the form of projects, and I have skills in pattern recognition which helps me learn languages quickly. I want to gain mastery of sought-after languages for devs and to find my niche within the tech industry.
 
 My hobbies include gaming🎮, crocheting🧶, and yoga🧘.
